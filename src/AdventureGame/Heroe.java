@@ -6,8 +6,11 @@ public class Heroe extends Personaje {
 
     private List<Mueble> mochila;
 
+    public List<Mueble> getMochila() {
+        return mochila;
+    }
 
-    public Heroe(int energia, int vidas, int capacidad, int x, int y) {
-        super(energia, vidas, capacidad, x, y);
+    public void setMochila(List<Mueble> mochila) {
+        this.mochila = mochila;
     }
 }

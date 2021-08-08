@@ -5,11 +5,7 @@ public abstract class Mueble {
             private int y;
             private Heroe heroe;
 
-    public Mueble(int x, int y, Heroe heroe) {
-        this.x = x;
-        this.y = y;
-        this.heroe = heroe;
-    }
+
 
     public int getX() {
         return x;

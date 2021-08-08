@@ -1,10 +1,8 @@
 package AdventureGame;
 
 public class Arma extends Mueble{
-    int MasEnergia;
-    int MasCapacidad;
+    private int MasEnergia;
+    private int MasCapacidad;
 
-    public Arma(int x, int y, Heroe heroe) {
-        super(x, y, heroe);
-    }
+
 }

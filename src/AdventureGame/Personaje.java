@@ -8,13 +8,7 @@ public abstract class Personaje {
     private int y;
 
 
-    public Personaje(int energia, int vidas, int capacidad, int x, int y) {
-        this.energia = energia;
-        this.vidas = vidas;
-        this.capacidad = capacidad;
-        this.x = x;
-        this.y = y;
-    }
+
 
     public int getEnergia() {
         return energia;
