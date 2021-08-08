@@ -2,7 +2,7 @@ package AdventureGame;
 
 import java.util.List;
 
-public class Héroe extends Personaje {
+public class Heroe extends Personaje {
 
     private List<Mueble> mochila;
 

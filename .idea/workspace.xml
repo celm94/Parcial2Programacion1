@@ -37,9 +37,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AdventureGame/Alimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Alimento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AdventureGame/Arma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Arma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdventureGame/Héroe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Héroe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdventureGame/Héroe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Heroe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AdventureGame/Mueble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Mueble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdventureGame/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Personaje.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AdventureGame/Proyectil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Proyectil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../necflis/src/parcial2/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../necflis/src/parcial2/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../necflis/src/parcial2/ListaCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../necflis/src/parcial2/ListaCliente.java" afterDir="false" />
