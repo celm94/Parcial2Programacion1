@@ -7,7 +7,17 @@
       <change afterPath="$PROJECT_DIR$/../PRUEBAGIT/PRUEBAGIT.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PRUEBAGIT/src/PRUEBAJAVAGIT/ABC.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Parcial/Parcial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Alimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Enemigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Héroe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Inmueble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Mueble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Muro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Personaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Proyectil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Torre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdventureGame/Árbol.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../RUEDA DE LA FORTUNA/RUEDA DE LA FORTUNA.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TAREA2programacion2/TAREA2programacion2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TAREA2programacion2/src/pruebas/sabersimain.java" afterDir="false" />
@@ -35,6 +45,8 @@
       <change afterPath="$PROJECT_DIR$/../pruebass/src/prueba1/principal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ruedaftarea/ruedaftarea.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jugador.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../necflis/src/parcial2/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../necflis/src/parcial2/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../necflis/src/parcial2/ListaCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../necflis/src/parcial2/ListaCliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../necflis/src/parcial2/ListaPelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../necflis/src/parcial2/ListaPelicula.java" afterDir="false" />
@@ -44,6 +56,14 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,6 +78,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ea361755-c1e7-48d0-8c05-bdbf4e60582e" name="Default Changelist" comment="" />
