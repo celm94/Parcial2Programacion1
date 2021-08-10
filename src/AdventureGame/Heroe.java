@@ -4,7 +4,11 @@ import java.util.List;
 
 public class Heroe extends Personaje {
 
+
+
     private List<Mueble> mochila;
+
+
 
     public List<Mueble> getMochila() {
         return mochila;

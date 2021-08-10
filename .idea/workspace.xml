@@ -4,6 +4,22 @@
     <list default="true" id="ea361755-c1e7-48d0-8c05-bdbf4e60582e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../bin/nodejs/node-v12/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../laragon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geniopolis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geniopolis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geniopolis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geniopolis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeniopolisCine/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeniopolisCine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeniopolisCine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeniopolisCine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeniopolisCine/GeniopolisCine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeniopolisCine/src/Cine/Geniopolis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPEDEPparcial/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPEDEPparcial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPEDEPparcial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPEDEPparcial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPEDEPparcial/IPEDEPparcial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPEDEPparcial/src/Geniopolis.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PRUEBAGIT/PRUEBAGIT.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PRUEBAGIT/src/PRUEBAJAVAGIT/ABC.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Parcial/Parcial.iml" afterDir="false" />
@@ -25,6 +41,7 @@
       <change afterPath="$PROJECT_DIR$/../palindromo/palindromo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../palindromo1/palindromo1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../program/program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebagit2/pruebagit2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pruebagit2/src/HIJKLMNOPQ.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pruebas/pruebas.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pruebasclase/pruebasclase.iml" afterDir="false" />
@@ -35,6 +52,22 @@
       <change afterPath="$PROJECT_DIR$/../ruedaftarea/ruedaftarea.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Alimento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Alimento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Arma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Arma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Enemigo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Enemigo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Heroe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Heroe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Inmueble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Inmueble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Mueble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Mueble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Muro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Muro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Personaje.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Personaje.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Proyectil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Proyectil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Torre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Torre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/ep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/ep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Parcial1Progra2/AdventureGame/Árbol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdventureGame/Heroe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Heroe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdventureGame/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Personaje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdventureGame/ep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/ep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdventureGame/Árbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdventureGame/Arbol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../necflis/src/parcial2/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../necflis/src/parcial2/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../necflis/src/parcial2/ListaCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../necflis/src/parcial2/ListaCliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../necflis/src/parcial2/ListaPelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../necflis/src/parcial2/ListaPelicula.java" afterDir="false" />
@@ -65,6 +98,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="ep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">

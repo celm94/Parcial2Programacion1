@@ -1,6 +1,7 @@
 package AdventureGame;
 
 public abstract class Personaje {
+    private String nombre;
     private int energia;
     private int vidas;
     private int capacidad;
@@ -8,7 +9,13 @@ public abstract class Personaje {
     private int y;
 
 
+    public String getNombre() {
+        return nombre;
+    }
 
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
 
     public int getEnergia() {
         return energia;
