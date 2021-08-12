@@ -5,4 +5,14 @@ public class Arma extends Mueble{
     private int MasCapacidad;
 
 
+
+    public void incrementarE(){
+
+    }
+
+    public void incrementarA(){
+
+    }
 }
+
+

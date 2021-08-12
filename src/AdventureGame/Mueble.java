@@ -30,4 +30,7 @@ public abstract class Mueble {
     public void setHeroe(Heroe heroe) {
         this.heroe = heroe;
     }
+
+
+
 }
