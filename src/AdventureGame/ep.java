@@ -129,6 +129,8 @@ public class ep {
 
                         }
                         else if((heroe.getX() == filete1.getX() && heroe.getY() == filete1.getY()) || (heroe.getX() == filete2.getX() && heroe.getY() == filete2.getY())) {
+
+                            System.out.println("You found a big piece of steak!...");
                             Mueble alimento = new Alimento();
                             heroe.Guardar(alimento);
                             heroe.Status();
@@ -140,6 +142,7 @@ public class ep {
                         else if((heroe.getX() == balas1.getX() && heroe.getY() == balas1.getY()) ||  (balas2.getX() == filete2.getX() && heroe.getY() == balas2.getY())){
 
 
+                            System.out.println("You found a new set of ammunitions...");
                                 Mueble projectile = new Proyectil();
                                 heroe.Guardar(projectile);
                                 heroe.Status();

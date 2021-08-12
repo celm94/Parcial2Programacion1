@@ -32,6 +32,11 @@ public class Heroe extends Personaje {
         int tamaño = mochila.size();
         if(tamaño < 3){
 
+            System.out.println("Save the mobile object in your bag...");
+            System.out.println("Energy: +4");
+            System.out.println("Ability to Attack: +4");
+            System.out.println("Mobiles in your bag +1");
+
             mochila.add(mueble);
             int i = getNivelEnergia();
             int j = getCapacidadAtaque();
@@ -42,7 +47,7 @@ public class Heroe extends Personaje {
 
         }
         else{
-            System.out.println("Your bag is full");
+            System.out.println("But sorry, your bag is full, you can't keep the object.");
         }
         //entry point:
         // Mueble gun = new Arma();
