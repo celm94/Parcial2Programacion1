@@ -1,28 +1,19 @@
 package AdventureGame;
 
 public abstract class Personaje {
-    private String nombre;
+
     private int NivelEnergia;
     private int Vidas;
     private int CapacidadAtaque;
     private int x;
     private int y;
 
-
-    public String getNombre() {
-        return nombre;
-    }
-
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public int getEnergia() {
+    public int getNivelEnergia() {
         return NivelEnergia;
     }
 
-    public void setEnergia(int energia) {
-        this.NivelEnergia = energia;
+    public void setNivelEnergia(int nivelEnergia) {
+        NivelEnergia = nivelEnergia;
     }
 
     public int getVidas() {
@@ -30,15 +21,15 @@ public abstract class Personaje {
     }
 
     public void setVidas(int vidas) {
-        this.Vidas = vidas;
+        Vidas = vidas;
     }
 
-    public int getCapacidad() {
+    public int getCapacidadAtaque() {
         return CapacidadAtaque;
     }
 
-    public void setCapacidad(int capacidad) {
-        this.CapacidadAtaque = capacidad;
+    public void setCapacidadAtaque(int capacidadAtaque) {
+        CapacidadAtaque = capacidadAtaque;
     }
 
     public int getX() {
